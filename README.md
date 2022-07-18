@@ -216,7 +216,7 @@ This is a new frontier for you! You are now using powerful tools of Ruby
 to transform a nested data structure that you made from non-computer-ready
 data to produce insights. You've made huge strides in becoming a really solid
 developer in the procedural programming paradigm. This is a huge moment.
-Celebrate it!
+Celebra te it!
 
 Believe it or not, the code that put rockets in space and mankind on the Moon
 were only slight variations on this style of programming. You've learned
